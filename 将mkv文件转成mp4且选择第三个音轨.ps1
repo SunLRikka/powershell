@@ -1,0 +1,1 @@
+ffmpeg -i "2024-07-27_16-55-20.mkv" -map 0:v:0 -map 0:a:2 -c copy 2.mp4
